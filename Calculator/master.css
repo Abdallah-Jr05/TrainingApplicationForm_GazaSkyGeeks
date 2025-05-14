@@ -1,0 +1,47 @@
+body {
+  text-align: center;
+  background-image: url("pexels-andrew-2859169.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#result {
+  font-weight: bold;
+}
+
+#num1-el,
+p {
+  display: inline;
+  margin-right: 5px;
+}
+
+#num2-el {
+  display: block;
+  margin-left: -18px;
+  margin-top: 10px;
+}
+
+nav {
+  background-color: rgba(48, 190, 251, 0.448);
+  color: rgb(0, 0, 0);
+  border-radius: 50px;
+  border: black solid 2px;
+}
+
+button {
+  border: solid rgb(0, 0, 0) 2px;
+  color: rgb(253, 254, 255);
+  background-color: rgba(78, 46, 14, 0.719);
+  transition: transform 0.2s ease;
+  border-radius: 7px;
+}
+
+button:active {
+  transform: scale(0.96);
+}
+
+div {
+  border-bottom: rgba(0, 0, 0, 0.8) 5px;
+  border-bottom-style: double;
+  padding-bottom: 7px;
+}
