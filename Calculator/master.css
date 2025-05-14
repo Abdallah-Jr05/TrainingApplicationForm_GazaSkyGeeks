@@ -41,7 +41,7 @@ button:active {
 }
 
 div {
-  border-bottom: rgba(0, 0, 0, 0.8) 5px;
+  border-bottom: rgba(31, 31, 31, 0.8) 5px;
   border-bottom-style: double;
   padding-bottom: 7px;
 }
